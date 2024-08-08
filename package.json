@@ -1,0 +1,20 @@
+{
+  "name": "trade-parsing-and-balance-calculator",
+  "version": "1.0.0",
+  "description": "Backend Developer Intern KoinX assignment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.1",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
